@@ -10,7 +10,7 @@ use Illuminate\Http\Request;
 use Yajra\DataTables\DataTables;
 use Excel;
 use PDF;
-
+// test1
 class CustomerController extends Controller
 {
     // public function __construct()
